@@ -1,2 +1,12 @@
-sample application
-https://scotch.io/tutorials/build-a-real-time-scheduling-app-using-angularjs-and-firebase
+
+Application stack:
+
+*Angular
+*Firebase
+*Angular Firebase
+
+Overview:
+
+This application is for realtime syncing of data across multiple devices.For this purpose we have used firebase to store data.
+
+Url: http://realtime-scheduling-app.herokuapp.com/
