@@ -1,0 +1,27 @@
+{
+  "name": "realtime-scheduling-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodejs": "^0.0.0"
+  },
+  "engines": {
+        "node": "0.10.11",
+        "npm": "3.10.5"
+    },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-build-control": "^0.7.0"
+  },
+  "scripts": {
+    "start": "node web.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-abhisheksunkuru:abhisheksunkuru/angular-mutistep-example.git"
+  },
+  "author": "abhishek",
+  "license": "ISC"
+}
